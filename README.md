@@ -12,7 +12,7 @@ omarchy theme install https://github.com/dhh/omarchy-jade-horse-theme
 
 ## Backgrounds
 
-Three original wallpapers are included. Cycle through them with `omarchy theme bg next`.
+Six original wallpapers are included. Cycle through them with `omarchy theme bg next`.
 
 ### Ink Horse
 
@@ -26,7 +26,19 @@ Three original wallpapers are included. Cycle through them with `omarchy theme b
 
 ![Mountain Horses](backgrounds/03-mountain-horses.png)
 
-Wallpapers were generated with OpenAI image generation and are provided at their native resolution of 1672 × 941. The [generation prompts](PROMPTS.md) are included.
+### Moonlit Horse
+
+![Moonlit Horse](backgrounds/04-moonlit-horse.png)
+
+### Water Horse
+
+![Water Horse](backgrounds/05-water-horse.png)
+
+### Jade Water Horse
+
+![Jade Water Horse](backgrounds/06-jade-water-horse.png)
+
+The wallpapers are provided at their native resolution of 1672 × 941. Generation prompts for the original set are included in [PROMPTS.md](PROMPTS.md).
 
 ## Palette
 
