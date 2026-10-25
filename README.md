@@ -14,17 +14,17 @@ omarchy theme install https://github.com/dhh/omarchy-jade-horse-theme
 
 Three original wallpapers are included. Cycle through them with `omarchy theme bg next`.
 
+### Mountain Horses
+
+![Mountain Horses](backgrounds/01-mountain-horses.webp)
+
 ### Ink Horse
 
-![Ink Horse](backgrounds/01-ink-horse.webp)
+![Ink Horse](backgrounds/02-ink-horse.webp)
 
 ### Carved Jade Horse
 
-![Carved Jade Horse](backgrounds/02-carved-jade-horse.webp)
-
-### Mountain Horses
-
-![Mountain Horses](backgrounds/03-mountain-horses.webp)
+![Carved Jade Horse](backgrounds/03-carved-jade-horse.webp)
 
 Wallpapers were generated with OpenAI image generation and upscaled 4× from 1672 × 941 to 6688 × 3764. The [generation prompts](PROMPTS.md) are included.
 
