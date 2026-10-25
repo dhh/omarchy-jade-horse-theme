@@ -12,7 +12,7 @@ omarchy theme install https://github.com/dhh/omarchy-jade-horse-theme
 
 ## Backgrounds
 
-Three original wallpapers are included. Cycle through them with `omarchy theme bg next`.
+Six original wallpapers are included. Cycle through them with `omarchy theme bg next`.
 
 ### Mountain Horses
 
