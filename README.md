@@ -16,17 +16,17 @@ Three original wallpapers are included. Cycle through them with `omarchy theme b
 
 ### Ink Horse
 
-![Ink Horse](backgrounds/01-ink-horse.png)
+![Ink Horse](backgrounds/01-ink-horse.webp)
 
 ### Carved Jade Horse
 
-![Carved Jade Horse](backgrounds/02-carved-jade-horse.png)
+![Carved Jade Horse](backgrounds/02-carved-jade-horse.webp)
 
 ### Mountain Horses
 
-![Mountain Horses](backgrounds/03-mountain-horses.png)
+![Mountain Horses](backgrounds/03-mountain-horses.webp)
 
-Wallpapers were generated with OpenAI image generation and are provided at their native resolution of 1672 × 941. The [generation prompts](PROMPTS.md) are included.
+Wallpapers were generated with OpenAI image generation and upscaled 4× from 1672 × 941 to 6688 × 3764. The [generation prompts](PROMPTS.md) are included.
 
 ## Palette
 
