@@ -14,31 +14,19 @@ omarchy theme install https://github.com/dhh/omarchy-jade-horse-theme
 
 Six original wallpapers are included. Cycle through them with `omarchy theme bg next`.
 
+### Mountain Horses
+
+![Mountain Horses](backgrounds/01-mountain-horses.webp)
+
 ### Ink Horse
 
-![Ink Horse](backgrounds/01-ink-horse.webp)
+![Ink Horse](backgrounds/02-ink-horse.webp)
 
 ### Carved Jade Horse
 
-![Carved Jade Horse](backgrounds/02-carved-jade-horse.webp)
+![Carved Jade Horse](backgrounds/03-carved-jade-horse.webp)
 
-### Mountain Horses
-
-![Mountain Horses](backgrounds/03-mountain-horses.webp)
-
-### Moonlit Horse
-
-![Moonlit Horse](backgrounds/04-moonlit-horse.webp)
-
-### Water Horse
-
-![Water Horse](backgrounds/05-water-horse.webp)
-
-### Jade Water Horse
-
-![Jade Water Horse](backgrounds/06-jade-water-horse.webp)
-
-The wallpapers are provided at their native resolution of 1672 × 941. Generation prompts for the original set are included in [PROMPTS.md](PROMPTS.md).
+Wallpapers were generated with OpenAI image generation and upscaled 4× from 1672 × 941 to 6688 × 3764. The [generation prompts](PROMPTS.md) are included.
 
 ## Palette
 
